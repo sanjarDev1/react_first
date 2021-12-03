@@ -7,7 +7,7 @@ import "./Card.css";
             <div className="cardContainer">
                 <img className='img' src={img} />
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit accusantium recusandae, saepe possimus impedit quos aliquid amet hic unde! Cupiditate perspiciatis officia maiores porro nulla.</p>
-                <button></button>
+                <button>See story</button>
             </div> 
         )
     }

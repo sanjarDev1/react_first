@@ -13,12 +13,20 @@
     
 }
 .img{
-    width: 100px;
-    margin-top: -;
-    
+    width: 100px;    
 }
 p{
     width: 80%;
     font-size: 14px;
     text-align: center;
+}
+button{
+    font-size: 20px;
+    box-shadow: -5px -5px 8px #FFFFFF,
+    5px 5px 8px rgba(13, 39, 80,0.16);
+    border-radius: 5px;
+    border:1px solid black;
+}
+button:hover{
+    box-shadow: 5px 5px 5px black ;
 }
